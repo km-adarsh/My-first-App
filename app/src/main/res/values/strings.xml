@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">cUNvert by Adarsh K M</string>
+    <string-array name="names">
+        <item>°C to °F</item>
+        <item>kg to gms</item>
+        <item>year to days</item>
+        <item>cm to feet</item>
+        <item>km/h to m/s</item>
+        <item>m/s to km/h</item>
+        <item>km to miles</item>
+
+
+
+    </string-array>
+</resources>
